@@ -1,3 +1,4 @@
+![](https://github.com/pranjal-singla/meetiFY/blob/main/banner.png)
 # meetiFY
 
 A meeting app that runs on 
