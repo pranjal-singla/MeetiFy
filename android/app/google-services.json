@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "671551595225",
+    "project_id": "meetify-92e50",
+    "storage_bucket": "meetify-92e50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671551595225:android:5df1d6463b4e7396e694c8",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671551595225-1qa18hf2a4oqdmt4ug2vnkppqpbntuep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "b051b50956e6f9f21c6e367b01fbf1625fd7a1ca"
+          }
+        },
+        {
+          "client_id": "671551595225-03rsbvov1r27mloagbhfumd97kbpm3in.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOmnkI9BwXYTbjRhdTtGmIcKUcqlE6-ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671551595225-03rsbvov1r27mloagbhfumd97kbpm3in.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
