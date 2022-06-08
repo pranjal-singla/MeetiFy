@@ -1,9 +1,12 @@
 ![](https://github.com/pranjal-singla/meetiFY/blob/main/banner.png)
 # meetiFY
+An app that makes video calling easy.
 
-A meeting app that runs on 
+## 💻 Tech Stack used
+- **Back-End** - Firebase Auth, Firestore Storage, Jitsi Meet
+- **Framework Used** - Flutter
 
-## Features
+## ✨ Features
 
 1. Google Sign In
 2. Create New Meeting
@@ -27,5 +30,7 @@ A meeting app that runs on
 20. Log out
 21. Translate contents of to the language of your preference.
 
+
 ## References
 [Flutter Zoom Clone | Firebase by Rivaan Ranawat Flutter](https://youtu.be/sMA1dKbv33Y)
+[Flutter Documentation] (https://docs.flutter.dev/)
